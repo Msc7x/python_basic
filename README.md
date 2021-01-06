@@ -6,4 +6,4 @@ Race Academy APS lesson
 ### H3 tag
 #### H4 tag
 ##### H5 tag
-###### <H6 tag
+###### H6 tag
