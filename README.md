@@ -13,3 +13,11 @@ Race Academy APS lesson
 * item 2
  * item 2a
  * item 2b
+#### List ordered
+1. item 1
+2. item 2
+3. item 3
+ * item 3a
+ * item 3b
+ 
+ 
