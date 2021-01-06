@@ -1,3 +1,5 @@
+![formula-1-logo-7](https://user-images.githubusercontent.com/68946824/103737569-67ca6580-502d-11eb-832a-0b1481bb1898.png)
+
 # python_basic
 Race Academy APS lesson
 
